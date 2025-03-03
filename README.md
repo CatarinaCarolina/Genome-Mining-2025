@@ -52,8 +52,12 @@ When the analysis is finished, a table of identified clusters is displayed
 
 #### Questions:
 - How many BGCs does B. velezensis have?
-- Which compounds are known?
 - Which are PKS / NRPS / hybrid products
+- Which compounds are known?
+- Can you find these BGCs in [antiSMASH DB](https://antismash-db.secondarymetabolites.org/)? and in [MIBiG](https://mibig.secondarymetabolites.org/)?
+
+
+
 
 
 
