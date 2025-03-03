@@ -11,6 +11,7 @@ Once you're done, or approximately 1hr into the session, we'll switch over to th
 ## antiSMASH Documentation
 
 The official documentation for antiSMASH can be found [here](https://docs.antismash.secondarymetabolites.org).
+
 See a supporting document with a demo of the antiSMASH online webserver [here](https://github.com/CatarinaCarolina/Genome-Mining-CIIMAR-2025/blob/main/antiSMASH_demo.pdf). Use this file to guide your exploration of antiSMASH.
 
 ## antiSMASH Exercises
