@@ -3,7 +3,6 @@ Materials for the hands-on session 'Workflows for natural product genome mining 
 
 This hands-on session features three main tools/resources:
 - antiSMASH (online)
-- MIBiG (online)
 - BiG-SCAPE (offline, on your laptop or server)
 
 In this repo you'll find the materials for the antiSMASH part of this hands-on session. We recommend you start with this section.
@@ -57,7 +56,7 @@ When the analysis is finished, a table of identified clusters is displayed
 - Can you find these BGCs in [antiSMASH DB](https://antismash-db.secondarymetabolites.org/)? and in [MIBiG](https://mibig.secondarymetabolites.org/)?
 
 
-
+Now, we'll switch over to the BiG-SCAPE, find the materials for that part [here](https://github.com/CatarinaCarolina/BiG-SCAPE-workshop).
 
 
 
