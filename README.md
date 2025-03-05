@@ -115,7 +115,26 @@ _For your reference, please find a paper describing the entire genome sequence u
 
 ### Now, we'll switch over to the BiG-SCAPE, find the materials for that part [here](https://github.com/CatarinaCarolina/BiG-SCAPE-workshop).
 
+------------
 
+### 3.1 Chaxamycin bonus questions
+
+An alternative way of finding the cluster would have been to use the NaPDoS tool to identify ketosynthase domains clustering with those of ansamycin PKSs in a phylogeny. To do this:
+- go to the [genome sequence](https://www.ncbi.nlm.nih.gov/nuccore/LN831790)
+- click ‘Protein’ under ‘Related information’
+- click ‘Send to’ -> ‘File’ -> ‘Format: FASTA’ -> ‘Create file’.
+- Now upload the proteins belonging to the genome to [NaPDoS](https://npdomainseeker.sdsc.edu/napdos2) and use it to construct a phylogenetic tree.
+- View the SVG in your browser and locate the rifamycin PKS reference ketosynthase domains (belonging to the PKS genes RifA, RifB, etc.).
+- Do you see KS domains from your genomes clustering with these?
+	
+
+#### Sequence similarity networking
+
+Sequence similarity network analysis is a useful technique to identify similar BGCs  across multiple genomes. The BiG-SCAPE tool automates this process. Have a look at the [BiG-SCAPE 1 output](https://bigscape-corason.secondarymetabolites.org/streptomyces_example/) of 96 complete streptomycetes genomes.
+
+- Can you find chaxamycin? What can you conclude about the taxonomic distribution of chaxamycin gene clusters?
+- Now find its relative geldanamycin in the same output. Can you find some strains in the dataset that are likely to also produce geldanamycin?
+- This network was made with a relatively strict cut-off of 0.3. Based on the structures of the molecules and the architectures of the BGCs, what would likely happen to the geldanamycin and chaxamycin connected components in the network if you would use a less strict cut-off (e.g., 0.7)?
 
 
 
