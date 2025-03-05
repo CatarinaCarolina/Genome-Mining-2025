@@ -38,11 +38,15 @@ When the analysis is finished, a table of identified clusters is displayed
 1.	Browse through the different clusters; use the interactive page and get a feeling by clicking on the genes in the “Gene Cluster description”, Detailed annotation, and “Homologous (Sub)cluster” panels.
 2.	Try links to blast or other services that appear on the dropdown windows when clicking on genes/domains.
 3.	Analyze the CDA gene cluster (Cluster 10)
-4.	Extract the predicted sequence of the peptide from the antiSMASH results.
-5.	Compare the predicted amino acid sequence with the [experimentally determined structure](https://doi.org/10.1016/s1074-5521(02)00252-1).
-6.	Find other organisms, which might produce similar compounds.
-7.	Find the genes in the CDA gene cluster, which code for enzymes involved in the biosynthesis of the non-proteinogenic amino acid hydroxyphenylglycine (hpg).
 
+#### Questions:
+
+- Extract the predicted sequence of the peptide from the antiSMASH results.
+- Compare the predicted amino acid sequence with the [experimentally determined structure](https://doi.org/10.1016/s1074-5521(02)00252-1).
+- Find other organisms, which might produce similar compounds.
+- Find the genes in the CDA gene cluster, which code for enzymes involved in the biosynthesis of the non-proteinogenic amino acid hydroxyphenylglycine (hpg).
+
+------------
 
 ### Exercise 2: Bacillus velezensis (amyloliquefaciens) FZB42 - (RefSeq accession: NC_009725.2)
 
@@ -56,6 +60,7 @@ When the analysis is finished, a table of identified clusters is displayed
 - Which compounds are known?
 - Can you find these BGCs in [antiSMASH DB](https://antismash-db.secondarymetabolites.org/)? and in [MIBiG](https://mibig.secondarymetabolites.org/)?
 
+------------
 
 ### Exercise 3: secondary metabolite gene clusters of Streptomyces leeuwenhoekii
 
