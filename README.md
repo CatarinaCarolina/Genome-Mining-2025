@@ -14,6 +14,8 @@ The official documentation for antiSMASH can be found [here](https://docs.antism
 
 See a supporting document with a demo of the antiSMASH online webserver [here](https://github.com/CatarinaCarolina/Genome-Mining-CIIMAR-2025/blob/main/antiSMASH_demo.pdf). Use this file to guide your exploration of antiSMASH.
 
+------------
+
 ## antiSMASH Exercises
 
 To save time for today, we only will work with the pre-computed antiSMASH example record for Streptomyces coelicolor instead of uploading/running individual sequences.
