@@ -50,9 +50,9 @@ When the analysis is finished, a table of identified clusters is displayed
 
 ------------
 
-### Exercise 2: secondary metabolite gene clusters of _Bacillus velezensis_ (amyloliquefaciens) FZB42
+### Exercise 2: secondary metabolite gene clusters of _Bacillus velezensis_
 
-1.	Find and download the Bacillus velezensis FZB42 genome from NCBI (RefSeq accession: NC_009725.2)
+1.	Find and download the Bacillus velezensis (amyloliquefaciens) FZB42 genome from NCBI (RefSeq accession: NC_009725.2)
 2.	Run antiSMASH with the genome
 3.	Analyze the data as discussed above.
 
