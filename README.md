@@ -6,7 +6,7 @@ This hands-on session features three main tools/resources:
 - BiG-SCAPE (offline, on your laptop or server)
 
 In this repo you'll find the materials for the antiSMASH part of this hands-on session. We recommend you start with this section.
-Once you're done, or approximately 1hr into the session, we'll switch over to the BiG-SCAPE, find the materials for that part [here](https://github.com/CatarinaCarolina/BiG-SCAPE-workshop).
+Once you're done, or approximately 45min into the session, we'll switch over to the BiG-SCAPE, find the materials for that part [here](https://github.com/CatarinaCarolina/BiG-SCAPE-workshop).
 
 ## antiSMASH Documentation
 
