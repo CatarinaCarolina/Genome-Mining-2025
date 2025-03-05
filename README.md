@@ -20,7 +20,7 @@ See a supporting document with a demo of the antiSMASH online webserver [here](h
 
 To save time for today, we only will work with the pre-computed antiSMASH example record for Streptomyces coelicolor instead of uploading/running individual sequences.
 
-### Exercise 1: secondary metabolite gene clusters of Streptomyces coelicolor
+### Exercise 1: secondary metabolite gene clusters of _Streptomyces coelicolor_
 
 As an example, we will analyze the secondary metabolite gene clusters of the model organism Streptomyces coelicolor, which is provided as pre-computed demo data:
 
@@ -50,9 +50,9 @@ When the analysis is finished, a table of identified clusters is displayed
 
 ------------
 
-### Exercise 2: Bacillus velezensis (amyloliquefaciens) FZB42 - (RefSeq accession: NC_009725.2)
+### Exercise 2: secondary metabolite gene clusters of _Bacillus velezensis_ (amyloliquefaciens) FZB42
 
-1.	Find and download the Bacillus velezensis FZB42 genome from NCBI
+1.	Find and download the Bacillus velezensis FZB42 genome from NCBI (RefSeq accession: NC_009725.2)
 2.	Run antiSMASH with the genome
 3.	Analyze the data as discussed above.
 
@@ -64,7 +64,7 @@ When the analysis is finished, a table of identified clusters is displayed
 
 ------------
 
-### Exercise 3: secondary metabolite gene clusters of Streptomyces leeuwenhoekii
+### Exercise 3: secondary metabolite gene clusters of _Streptomyces leeuwenhoekii_
 
 1. Open the antiSMASH results for a recently sequenced streptomycete genome using [default](http://bioinformatics.nl/~medem005/LN831790/index.html) settings and ['loose' mode](http://bioinformatics.nl/~medem005/LN831790_loose/index.html).
 
