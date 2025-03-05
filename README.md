@@ -2,7 +2,7 @@
 Materials for the hands-on session 'Workflows for natural product genome mining with antiSMASH, BiG-SCAPE and MIBiG', of the CIIMAR short course Bioinformatics for Natural Product Discovery 2025
 
 This hands-on session features three main tools/resources:
-- antiSMASH (online)
+- antiSMASH & MIBiG (online)
 - BiG-SCAPE (offline, on your laptop or server)
 
 In this repo you'll find the materials for the antiSMASH part of this hands-on session. We recommend you start with this section.
