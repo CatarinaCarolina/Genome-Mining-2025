@@ -70,7 +70,7 @@ When the analysis is finished, a table of identified clusters is displayed
   - Can you identify some clusters that are very probable to encode the biosynthesis of an actual secondary metabolite?
   - And can you find some clusters for which this is very unlikely? Which further methods could you use to identify those putative BGCs that are likely to encode the biosynthesis of a biologically active molecule?
 
-##### Chaxamycin
+#### 3.1 Chaxamycin
 
 The following molecule is known to be made by the sequenced [strain](https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:69812)
 
@@ -80,7 +80,7 @@ The molecule (called chaxamycin) is an ansamycin-type polyketide. Ansamycins are
   - Which antiSMASH feature(s) did you use to conclude this?
 - Look at the ClusterBlast results for the region you identified. Does this region entry represent one single gene cluster, or does it in fact represent two separate but adjacently located gene clusters that are part of a single region? Why do you think so?
 
-##### Peptidic Fragments
+#### 3.2 Peptidic Fragments
 
 Based on a mass spectrometry experiment, two apparently new natural products are identified from the strain. Based on fragmentation analysis, both appear to be peptides. For each of the two metabolites, a six amino acid-long fragment is retrieved that is reconstructed based on mass shifts from tandem mass spectra.
 
@@ -91,7 +91,7 @@ The total mass of the entire second peptide is approximately twice as large as t
 
 - Based on the antiSMASH results (default mode), which gene clusters do you think are responsible for the biosynthesis of the two peptides? What strategy did you use to find this out?
 
-##### Predicting the chemistry of the product of an unknown BGC
+#### 3.3 Predicting the chemistry of the product of an unknown BGC
 
 Now have a look at the gene cluster in region 10  ([default mode](http://bioinformatics.nl/~medem005/LN831790/index.html)).
 
